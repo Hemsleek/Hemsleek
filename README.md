@@ -6,10 +6,14 @@
 
 💥 Socials
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-
+<p>
+  <a href="https://www.linkedin.com/in/asiyanbi-mubashir-53566218b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.twitter.com/hemsleek">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ![Hemsleek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemsleek&show_icons=true&theme=synthwave&count_private=true&hide=stars,contribs)
 
