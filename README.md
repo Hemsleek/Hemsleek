@@ -2,7 +2,7 @@
 
 
 
-<img src="./img/hemsleek-green-grass.png" alt='green-grass-img'/>
+<img src="./img/hesleek-light-green-grass.png" alt='green-grass-img'/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
