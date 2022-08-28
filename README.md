@@ -2,7 +2,9 @@
 
 <img src="./img/hesleek-light-green-grass.png" alt='green-grass-img'/>
 
-🏂 Reach me   [Portfolio](https://hemsleek.com)
+🏂 Reach me   <a href="https://www.linkedin.com/in/asiyanbi-mubashir-53566218b/"  target="_blank">
+    Portfolio
+  </a>
 
 💥 Socials
 
