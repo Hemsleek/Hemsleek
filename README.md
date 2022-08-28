@@ -1,16 +1,16 @@
 ### HI 👋, You can call me
 
-<img src="./img/hesleek-light-green-grass.png" alt='green-grass-img'/> 
+<img src="./img/hesleek-light-green-grass.png" alt='green-grass-img'/>
 
 🏂 Reach me   [Portfolio](https://hemsleek.com)
 
 💥 Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/asiyanbi-mubashir-53566218b/">
+  <a href="https://www.linkedin.com/in/asiyanbi-mubashir-53566218b/"  target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.twitter.com/hemsleek">
+  <a href="https://www.twitter.com/hemsleek" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -29,6 +29,7 @@
 ![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
+
 ### 🚧 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?perline=6&i=html,css,js,ts,python,react,redux,nextjs,express,nodejs,mongodb,firebase,graphql,apollo,tailwind,styledcomponents,git,github,gitlab,vscode,vite,heroku,vercel,netlify)](https://skillicons.dev)
